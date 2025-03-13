@@ -57,8 +57,6 @@ This project is deployed on **Vercel**. To deploy your own version, follow these
 2. Connect the repository to [Vercel](https://vercel.com/).
 3. Set up automatic deployments.
 
-## 📸 Screenshots
-(You can add screenshots here to showcase the app UI)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
